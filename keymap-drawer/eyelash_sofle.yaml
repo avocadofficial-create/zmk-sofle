@@ -61,7 +61,7 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
-  - $$mdi:keyboard-space$$
+  - $$mdi:apple-keyboard-control$$
   - LANGUAGE 1
   - $$mdi:apple-keyboard-shift$$
   - PRINTSCREEN
